@@ -1,6 +1,3 @@
-import java.util.*;
-import java.io.*;
-
 public class OOPs1{
 	public static void main(String [] args){
 		Animal obj=new Animal("DOG");
