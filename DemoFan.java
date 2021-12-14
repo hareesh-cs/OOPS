@@ -11,5 +11,5 @@ public class DemoFan {
       Fan f1=new Fan();
       f1.turnOn();
       f1.turnOff();
-  }  
+    }
 }
